@@ -102,5 +102,5 @@ This project is licensed under the MIT License.
 MS in Applied Machine Learning  
 University of Maryland, College Park  
 
-GitHub: [Check out my Github account](https://github.com/MohanVamsi183)
-Hugging Face: [Check out my Hugging Face account](https://huggingface.co/mohanvamsivp)
+GitHub: [Check out my Github account](https://github.com/MohanVamsi183)  
+Hugging Face: [Check out my Hugging Face account](https://huggingface.co/mohanvamsivp)  
