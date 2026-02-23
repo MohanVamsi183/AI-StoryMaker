@@ -1,8 +1,8 @@
-# AI StoryMaker
+# StoryMaker
 
 **Generating coherent stories from image sequences using vision–language models**
 
-AI StoryMaker is an end-to-end application that converts a sequence of images into a short, coherent story. The system combines image captioning and large language models to understand visual scenes and generate narrative text conditioned on user-selected moods.
+StoryMaker is an end-to-end application that converts a sequence of images into a short, coherent story using AI. The system combines image captioning and large language models to understand visual scenes and generate narrative text conditioned on user-selected moods.
 
 **Live Demo (Hugging Face Space):**
 [Try the AI StoryMaker on Hugging Face Spaces](https://mohanvamsivp-ai-storymaker.hf.space)
